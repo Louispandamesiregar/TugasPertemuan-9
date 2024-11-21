@@ -1,0 +1,40 @@
+body{
+  padding:0;
+  Margin:0;
+}
+
+.Container-Header{
+  display:flex;
+  align-items:center;
+  justify-content:center; 
+  background-color: burlywood;
+  height: 25vh;
+  Width:100%;
+  }
+  
+.Header{
+  text-align: center;
+  height:80%;
+  width:20%;
+}
+
+.Container-Content{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:rgb(219, 161, 86);
+  height: 75vh;
+  width:100%;
+}
+.Content{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align:center;
+  height:80%;
+  width:100%;
+
+}
+
+p{
+  font-size: 1.2rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
